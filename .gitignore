@@ -1,0 +1,4 @@
+.build/
+SnapD.app/
+*.dmg
+.DS_Store
